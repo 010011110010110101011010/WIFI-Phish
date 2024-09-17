@@ -1,3 +1,11 @@
+# 🚨🚨🚨 Disclaimer: For Educational Purposes Only 🚨🚨🚨
+
+- This project and all associated content are intended for educational and research purposes only. The techniques demonstrated here are meant to enhance understanding of network security and should never be used for unauthorized or malicious activities.
+
+- Users are responsible for ensuring that they comply with all applicable laws and regulations in their respective jurisdictions. The authors of this project disclaim any responsibility for misuse or illegal activity carried out with the information provided.
+
+# 🚨🚨🚨 Always obtain explicit permission before conducting any network-related tests on systems or devices you do not own. 🚨🚨🚨
+
 <div align="center">
   <h1>🎣 <strong>WIFIPhish</strong> 🌐</h1>
   <img src="https://github.com/user-attachments/assets/b21fd05c-4c14-4e58-83aa-063700af7ebf">
